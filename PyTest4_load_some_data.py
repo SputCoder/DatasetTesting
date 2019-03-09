@@ -1,4 +1,6 @@
 #####
+## JUST LOADS A TEST EXCEL FILE WITH DATA FROM ANY DATASET FOUND ON THE WEB
+## THEN AT THE END OF THIS PROGRAM IT ONLY PRINTS OUT THE DATA TYPE OF EACH COLUMN
 # to install any prog that might need..
 # then run in TERMINAL --- see below  PROBLEMS | OUTPUT | DEBUG CONSOLE |  ...TERMINAL... 
 # python -m pip install --upgrade program_needed_as_an_example
@@ -42,3 +44,7 @@ print(xls_dataframe.dtypes) # just show type of data for each column either a nu
 ###json_dataframe  = pd.read_json('my_dataset.json', orient='columns')
 ##csv_dataframe   = pd.read_csv('my_dataset.csv', sep=',')
 ##table_dataframe = pd.read_html('http://page.com/with/table.html')[0]
+
+
+
+
