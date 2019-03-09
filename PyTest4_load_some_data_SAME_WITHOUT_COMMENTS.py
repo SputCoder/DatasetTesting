@@ -17,6 +17,7 @@ import numpy as np
 # NEED TO DOUBLE THE BACK SLASHES \ TO \\
 ## PATH BELOW HAS TO BE WHERE THE DATASET IS STORED sample_test_dataset.xlsx
 ## FOUND THIS ONE ONLINE WITH SEARCH
+## WAS A TEXT FILE BUT IMPORTING INTO EXCEL... COS EXCEL IS GOOD :)
 xls_dataframe   = pd.read_excel('C:\\Users\\Gerry\\Source\\Repos\\PythonApplication1\\PythonApplication1\\sample_test_dataset.xlsx', 'sample_test_dataset', na_values=['NA', '?'])
 
 print(xls_dataframe.dtypes) # just show type of data for each column either a number or an object (yet undefined)
