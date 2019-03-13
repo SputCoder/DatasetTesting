@@ -9,6 +9,11 @@
 import pandas as pd
 import numpy as np
 
+## IF DON'T HAVE pandas ALREADY INSTALLED, I THINK YOU CAN USE FOLLOWING COMMAND IN THE TERMINAL (BOTTOM HALF OF EDITOR)
+## python -m pip install --upgrade pandas
+## SIMILARLY FOR numby
+## python -m pip install --upgrade numby
+
 #### FOR TO GRAB DATA FROM EXCEL NEED TO INSTALL xlrd
 #### USE COMMAND BELOW
 ## python -m pip install --upgrade xlrd
