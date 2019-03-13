@@ -9,7 +9,7 @@
 import pandas as pd
 import numpy as np
 
-## IF DON'T HAVE pandas ALREADY INSTALLED, I THINK YOU CAN USE FOLLOWING COMMAND IN THE TERMINAL (BOTTOM HALF OF EDITOR)
+## IF DON'T HAVE pandas ALREADY INSTALLED, I THINK CAN USE FOLLOWING COMMAND IN THE TERMINAL (BOTTOM HALF OF EDITOR)
 ## python -m pip install --upgrade pandas
 ## SIMILARLY FOR numby
 ## python -m pip install --upgrade numby
